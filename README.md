@@ -1,16 +1,13 @@
-## Hi there 👋
+# Dekai Zheng
 
-<!--
-**kinonlo/kinonlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
+B.S. in Software Engineering, Huazhong University of Science and Technology (HUST)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+- LLM Agents
+- Agent Evaluation
+- AI Infrastructure
+- Backend Systems
+
+Email: [u202217216@alumni.hust.edu.cn](mailto:u202217216@alumni.hust.edu.cn)
